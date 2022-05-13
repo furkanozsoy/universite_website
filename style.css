@@ -1,0 +1,33 @@
+.nav-link {
+
+    color: white;
+    font: italic;
+
+}
+
+.myfooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+.my-background {
+    background-image: url('https://media.foxbusiness.com/BrightCove/854081161001/202005/2136/854081161001_6155840512001_6155838388001-vs.jpg');
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: blur(8px);
+    z-index: -1;
+    
+}
+
+.mt-6 {
+    margin-top: 6rem !important;
+}
+
+.mt-7 {
+    margin-top: 10rem !important;
+}
+
